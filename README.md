@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository on GitHub.
+This repository contains my first GitHub project. I am learning version control through GitHub.
